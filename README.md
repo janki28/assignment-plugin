@@ -3,7 +3,7 @@
 Hello I am [Janki](https://janki1028.wordpress.com/).
 This plugin is developed during the WordPress Training Program provided by [rtCamp](https://rtcamp.com). You can also find my WordPress Learning Report [here](). 
 
-The requirements for the plugin are ![alt text]()
+The requirements for the plugin are ![Plugin req]()
 
 ## **Description**
 ## The main directories and files include:
@@ -58,3 +58,5 @@ This Plugin is not available on WordPress marketplace, thus you will have to man
   7. The plugin has also been internationalized.
 
 ## **Screenshots**
+
+![alt](https://github.com/janki28/assignment-plugin/blob/main/assets/37.jpg)

@@ -59,4 +59,5 @@ This Plugin is not available on WordPress marketplace, thus you will have to man
 
 ## **Screenshots**
 
-![alt](https://github.com/janki28/assignment-plugin/blob/main/assets/37.jpg)
+![alt]()
+

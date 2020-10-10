@@ -1,0 +1,41 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+/*
+	===========================================================
+ 			Meta Box.
+	=========================================================== 
+*/
+.book_meta
+{
+	display: grid;
+	grid-template-columns: max-content 1fr;
+	grid-row-gap: 10px;
+	grid-column-gap: 20px;
+}
+.book_field
+{
+	display: contents;
+}
+
+/*
+	===========================================================
+ 			Dashboard Widget.
+	=========================================================== 
+*/
+.book_dashboard 
+{
+    display: flex;
+    display: -ms-flexbox;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.book_dashboard_list  li 
+{
+    display: flex;
+    display: -ms-flexbox;
+    justify-content: space-between;
+    align-items: center;
+}

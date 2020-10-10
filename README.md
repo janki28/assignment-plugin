@@ -59,20 +59,34 @@ This Plugin is not available on WordPress marketplace, thus you will have to man
 
 ## **Screenshots**
 
-**Activate**
+### **Activate**
 
 ![activate](https://github.com/janki28/assignment-plugin/blob/main/assets/plugin.PNG)
 
+### **Books**
+
 ![plugin](https://github.com/janki28/assignment-plugin/blob/main/assets/book%20plugin.PNG)
+
+### **Meta Box**
 
 ![metabox](https://github.com/janki28/assignment-plugin/blob/main/assets/meta%20box1.PNG)
 
+### **Taxonomy**
+
 ![taxonomy](https://github.com/janki28/assignment-plugin/blob/main/assets/taxonomy.jpg)
+
+### **Book Settings**
 
 ![settings](https://github.com/janki28/assignment-plugin/blob/main/assets/book%20setting.PNG)
 
+### **Shortcode**
+
 ![shortcode](https://github.com/janki28/assignment-plugin/blob/main/assets/short%20code.jpg)
 
+### **Sidebar Widget**
+
 ![sidebar](https://github.com/janki28/assignment-plugin/blob/main/assets/sidebar.jpg)
+
+### **Dashboard Widget**
 
 ![dashboard](https://github.com/janki28/assignment-plugin/blob/main/assets/dashboard%20category.PNG)

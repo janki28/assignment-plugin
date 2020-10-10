@@ -59,6 +59,8 @@ This Plugin is not available on WordPress marketplace, thus you will have to man
 
 ## **Screenshots**
 
+**Activate**
+
 ![activate](https://github.com/janki28/assignment-plugin/blob/main/assets/plugin.PNG)
 
 ![plugin](https://github.com/janki28/assignment-plugin/blob/main/assets/book%20plugin.PNG)

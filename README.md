@@ -59,5 +59,5 @@ This Plugin is not available on WordPress marketplace, thus you will have to man
 
 ## **Screenshots**
 
-![alt]()
+![plugin](https://github.com/janki28/assignment-plugin/blob/main/assets/book%20plugin.PNG)
 

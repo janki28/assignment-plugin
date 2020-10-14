@@ -342,7 +342,7 @@ class Books_Admin {
 	 			'id'			=> 	'',
 	 			'price'			=> 	'',
 	 	 		),
-	 		$atts,
+	 		$atts
 	 	);
 	 	$args = array(
 	            'post_type'      => 'books',

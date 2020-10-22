@@ -1,7 +1,7 @@
 # **Assignment Plugin**
 
 Hello I am [Janki](https://janki1028.wordpress.com/).
-This plugin is developed during the WordPress Training Program provided by [rtCamp](https://rtcamp.com). You can also find my WordPress Learning Report [here](). 
+This plugin is developed during the WordPress Training Program provided by [rtCamp](https://rtcamp.com). You can also find my WordPress Learning Report [here](https://janki1028.wordpress.com/2020/10/14/time-to-wrap-up/). 
 
 The **requirements** for the plugin can be found [here](https://learn.rtcamp.com/topic/plugin-development-assignment/).
 

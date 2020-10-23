@@ -5,7 +5,7 @@ This plugin is developed during the WordPress Training Program provided by [rtCa
 
 The **requirements** for the plugin can be found [here](https://learn.rtcamp.com/topic/plugin-development-assignment/).
 
-The working **demo** can be found [here](https://jankiassignment-theme.000webhostapp.com/). This demo consists of Books plugin as well as theme demo. 
+The working **demo** can be found [here](http://janki-assignmenttheme.atwebpages.com/). This demo consists of Books plugin as well as theme demo. 
 
 **Note: The demo link is only for demonstration purpose. It includes limited posts.**
 
